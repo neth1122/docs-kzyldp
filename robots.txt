@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-2l75hu.bibo.bot/sitemap.xml
